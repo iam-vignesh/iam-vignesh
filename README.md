@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vignesh Ravi</h1>
 <h3 align="center">A passionate Cloud Engineer with right mix of people and tech skills :D</h3>
 
-- 📝 I regularly write articles on [https://made2ubyvi.wordpress.com/](https://made2ubyvi.wordpress.com/)
-
+- 📝 I regularly post on LinkedIn and Instagram
 - 💬 Ask me about **Cloud Infrastructure, Terraform, Python and AWS**
 
 - 📫 How to reach me **vigneshraviav@gmail.com**
