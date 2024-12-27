@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vignesh Ravi</h1>
-<h3 align="center">A passionate Cloud Engineer with right mix of people and tech skills :D</h3>
+<h3 align="center">Cloud Architect who loves building scalable solutions on AWS</h3>
 
 - 📝 I regularly post on LinkedIn and Instagram
-- 💬 Ask me about **Cloud Infrastructure, Terraform, Python and AWS**
+- 💬 Ask me about **Cloud Infrastructure, Terraform, CI/CD and AWS**
 
 - 📫 How to reach me **vigneshraviav@gmail.com**
 
